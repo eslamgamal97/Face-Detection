@@ -9,7 +9,7 @@ The network uses a cascade structure with three networks; first the image is res
 pyramid), then the first model (Proposal Network or P-Net) proposes candidate facial regions, the second model (Refine Network or R-Net) 
 filters the bounding boxes, and the third model (Output Network or O-Net) proposes facial landmarks.
 
-Link of video on youtube: https://youtu.be/txxr4gMrnD4
+Link of video on youtube: https://www.youtube.com/watch?v=JbVhkPpdi0s
 
 Written by: Eslam Gamal Elsayed
 
